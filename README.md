@@ -7,3 +7,5 @@ My friends call me Dojo.
 
 ### About me
 I'm a mobile developer, enthusiast on Android and in Java and Kotlin .
+
+- [Website](https://dojogeekstore.com.br) 💻 - Worked with 3D printers projects on geek / nerd culture and games.
