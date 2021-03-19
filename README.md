@@ -19,4 +19,4 @@ I'm a mobile developer, enthusiast on Android and in Java and Kotlin .
 ![GIT Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-- [Website](https://dojogeekstore.com.br) - Worked with 3D printers projects on geek / nerd culture and games.
+- [MyStore](https://dojogeekstore.com.br) - Worked with 3D printers projects on geek / nerd culture and games.
