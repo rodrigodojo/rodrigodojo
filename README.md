@@ -7,7 +7,7 @@ My friends call me Dojo.
 
 
 ### About me :
-I'm a mobile developer, enthusiast on Android and in Java and Kotlin .
+I'm a Mobile developer and Back-end developer, enthusiast on Android and in Java and Kotlin .
 
 ### Some skills :
 
