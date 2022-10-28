@@ -19,5 +19,3 @@ I'm a Mobile developer and Back-end developer, enthusiast on Android and in Java
 ![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GIT Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-- [MyStore](https://dojogeekstore.com.br) - Worked with 3D printers projects on geek / nerd culture and games.
